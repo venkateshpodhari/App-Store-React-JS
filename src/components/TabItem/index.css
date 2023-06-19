@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+}
+
+.btn {
+  font-family: 'Bree serif';
+  border: none;
+  border-bottom: 2px solid #dfe2e5;
+  font-size: 18px;
+  color: #7b8794;
+  background-color: transparent;
+  outline: none;
+  width: 70px;
+}
+
+.spl-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
